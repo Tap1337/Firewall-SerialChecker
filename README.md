@@ -22,7 +22,7 @@
    
  ### Mainboard:
    - Serial Number
-   - 
+     
 # Intructions:  
 
 ### Automatic:
