@@ -1,6 +1,6 @@
 #  Firewall-Serial-Checker | Python
 ![image](https://github.com/Tap1337/Firewall-SerialChecker/blob/main/Images/image.png)
-### Orignal Serial Checker here [Noxius-SerialChecker]([LICENSE](https://github.com/rotomicora/Noxius-SerialChecker)). I just Moddifed it.
+### Orignal Serial Checker here [Noxius-SerialChecker](https://github.com/rotomicora/Noxius-SerialChecker). I just Moddifed it.
 ## Features:
 
  ### BIOS:
