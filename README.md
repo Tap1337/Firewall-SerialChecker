@@ -32,6 +32,7 @@ To Automatically Download Requirements Run, Setup.bat.
 ```
 ### Manual:
 > Download the latest version of python
+
 > Open CMD in the folder
 ```
 pip install -r requirements.txt
