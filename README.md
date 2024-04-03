@@ -9,7 +9,7 @@
 
  ### CPU:
     - ProcessorID
-    - Serial Number (Beta)
+    - Serial Number
 
  ### Disk Drives:
    - Serial Number
