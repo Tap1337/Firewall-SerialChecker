@@ -4,24 +4,24 @@
 ## Features:
 
  ### BIOS:
-    - Identifying Number
-    - UUID
+   - Identifying Number
+   - UUID
 
  ### CPU:
-    - ProcessorID
-    - Serial Number
+   - ProcessorID
+   - Serial Number
 
  ### Disk Drives:
-    - Serial Number
+   - Serial Number
    
  ### Network:
-    - MAC Address
+   - MAC Address
    
  ### RAM:
-    - Serial Number
+   - Serial Number
    
  ### Mainboard:
-    - Serial Number
+   - Serial Number
   
 
 # Instructions:
