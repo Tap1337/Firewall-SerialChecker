@@ -1,5 +1,5 @@
 #  Firewall-Serial-Checker | Python
-![image](https://github.com/Tap1337/Firewall-SerialChecker/images/image.png)
+![image](https://github.com/Tap1337/Firewall-SerialChecker/blob/main/Images/image.png)
 
 ## Features:
 
@@ -22,10 +22,17 @@
    
  ### Mainboard:
    - Serial Number
-  
+   - 
+# Intructions:  
 
-# Instructions:
+### Automatic:
 > Download the latest version of python  
 ```
 To Automatically Download Requirements Run, Setup.bat.
+```
+### Manual:
+> Download the latest version of python
+> Open CMD in the folder
+```
+pip install -r requirements.txt
 ```
