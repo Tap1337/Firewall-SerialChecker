@@ -1,2 +1,31 @@
-# Firewall-SerialChecker
-A serial checker verifies the authenticity of serial numbers for products by cross-referencing them with a database, preventing counterfeiting and piracy. Developed in Python for efficiency and security.
+#  Firewall-Serial-Checker | Python
+![image](https://github.com/Tap1337/Firewall-SerialChecker/images/image.png)
+
+## Features:
+
+ ### BIOS:
+    - Identifying Number
+    - UUID
+
+ ### CPU:
+    - ProcessorID
+    - Serial Number (Beta)
+
+ ### Disk Drives:
+   - Serial Number
+   
+ ### Network:
+   - MAC Address
+   
+ ### RAM:
+   - Serial Number
+   
+ ### Mainboard:
+   - Serial Number
+  
+
+# Instructions:
+> Download the latest version of python  
+```
+To Automatically Download Requirements Run, Setup.bat.
+```
