@@ -31,7 +31,7 @@ gui="""
 faded_gui=fade.blackwhite(gui)
 
 os.system("@mode con cols=200 lines=50")
-os.system("title Serial Checker - made by violevo ^| Press any key to refresh")
+os.system("title Firewall SerialChecker ^| Press any key to refresh")
 
 while True:
     os.system("cls")
